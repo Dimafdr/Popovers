@@ -47,6 +47,7 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
+    "chokidar": "^3.5.3",
     "core-js": "^3.27.0"
   },
   "repository": {
