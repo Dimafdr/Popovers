@@ -21,5 +21,5 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/g6bb55s7392bpre0?svg=true)](https://ci.appveyor.com/project/Dimafdr/Popovers)
 
 
-## https://bel-lov.github.io/Popovers/
+## 
 
