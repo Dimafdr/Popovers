@@ -18,7 +18,7 @@
     "preshow:dist": "npm run build",
     "show:dist": "live-server dist"
   },
-  "author": "bel-lov",
+  "author": "Dimafdr",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.19.3",
@@ -51,10 +51,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bel-lov/Popovers.git"
+    "url": "git+https://github.com/Dimafdr/Popovers.git"
   },
   "bugs": {
-    "url": "https://github.com/bel-lov/Popovers/issues"
+    "url": "https://github.com/Dimafdr/Popovers/issues"
   },
-  "homepage": "https://github.com/bel-lov/Popovers#readme"
+  "homepage": "https://github.com/Dimafdr/Popovers#readme"
 }
