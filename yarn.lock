@@ -6291,10 +6291,10 @@ source-map-support@0.5.13:
     buffer-from "^1.0.0"
     source-map "^0.6.0"
 
-source-map-url@^0.4.0:
-  version "0.4.0"
-  resolved "https://registry.npmjs.org/source-map-url/-/source-map-url-0.4.0.tgz"
-  integrity sha1-PpNdfd1zYxuXZZlW1VEo6HtQhKM=sha512-liJwHPI9x9d9w5WSIjM58MqGmmb7XzNqwdUA3kSBQ4lmDngexlKwawGzK3J1mKXi6+sysoMDlpVyZh9sv5vRfw== sha512-liJwHPI9x9d9w5WSIjM58MqGmmb7XzNqwdUA3kSBQ4lmDngexlKwawGzK3J1mKXi6+sysoMDlpVyZh9sv5vRfw==
+source-map-url@^0.4.0, source-map-url@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.npmjs.org/source-map-url/-/source-map-url-0.4.1.tgz"
+  integrity sha512-cPiFOTLUKvJFIg4SKVScy4ilPPW6rFgMgfuZJPNoDuMs3nC1HbMUycBoJw77xFIp6z1UJQJOfx6C9GMH80DiTw==
 
 source-map@^0.5.6:
   version "0.5.7"

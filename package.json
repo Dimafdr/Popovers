@@ -48,7 +48,8 @@
   },
   "dependencies": {
     "chokidar": "^3.5.3",
-    "core-js": "^3.27.0"
+    "core-js": "^3.27.0",
+    "source-map-url": "^0.4.1"
   },
   "repository": {
     "type": "git",
